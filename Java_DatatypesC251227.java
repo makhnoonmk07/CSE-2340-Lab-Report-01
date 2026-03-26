@@ -1,0 +1,22 @@
+
+package java_datatypes.c251227;
+
+public class Java_DatatypesC251227 {
+
+    
+    public static void main(String[] args) {
+        int myNum = 5;          
+       float myFloatNum = 5.99f;   
+         char myLetter = 'D';    
+       boolean myBool = true;      
+       String myText = "Hello";    
+       System.out.println("Integer : "+myNum);
+    System.out.println("Float : "+myFloatNum);
+    System.out.println("Letter : "+myLetter);
+    System.out.println("Boolean :"+myBool);
+    System.out.println("Text : "+myText);
+       
+       
+    }
+    
+}
